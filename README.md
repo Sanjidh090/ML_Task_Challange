@@ -1,5 +1,6 @@
 # Hello! This is 120 days Career acceleration Challange for Data Science Roles!
-
+This file will be updated time to time....
+You are welcome to check my works and repositories!
 
 
 ```
