@@ -1,5 +1,5 @@
 ## Task 01 :
-linear scan or linear search in python goes with the size vs time. If the list is long, time for scan will be long ,too .
+linear scan or linear search in python goes linear  for the size vs time. If the list is long, time for scan will be long ,too .
 Time complexity : O(N)
 
 ```python
@@ -17,4 +17,5 @@ print(f"Execution time for search elapsed: {elapsed:.4f} seconds")
 
 in this code, if we change the range , increase it a little bit, time goes up as we increast the length and vice versa, the shorter the list, the less time it takes.
 
-![alt text](image.png)
+
+<img width="1356" height="393" alt="image" src="https://github.com/user-attachments/assets/f5357c19-218b-40cb-9567-31f1f711bf69" />
