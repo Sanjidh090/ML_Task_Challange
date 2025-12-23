@@ -8,4 +8,6 @@ list.insert(element,position)
 ```
 
 Inserting at a position of the list needs shifting of elements. It goes by time complexity of O(N)
-![Uploading image.png…]()
+<img width="1411" height="169" alt="image" src="https://github.com/user-attachments/assets/8f9f684d-4336-4cf4-8051-d5dafb7b9e1c" />
+
+
