@@ -1,5 +1,4 @@
 def injection():
-    print("Coroutine started.")
     while True:
         # Receive the value
         x = yield 
